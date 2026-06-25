@@ -1,0 +1,12 @@
+mistralai
+python-dotenv
+langchain
+langchain-mistralai
+langchain_huggingface
+langchain-community
+langchain-core
+faiss-cpu
+pypdf
+sentence-transformers
+transformers
+tokenizers
